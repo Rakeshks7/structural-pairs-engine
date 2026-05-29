@@ -6,7 +6,7 @@
 
 An institutional-grade statistical arbitrage engine that shifts pairs trading from linear assumptions (Pearson correlation) to structural dependency modeling. 
 
-Standard Z-score pairs trading often fails during market crashes because correlation goes to 1 in a panic. This engine utilizes **Copulas (Clayton, Gumbel, Frank)** to model *tail dependence* the probability that Asset A dislocates given Asset B's movement—ensuring the strategy remains robust during extreme market regime shifts.
+Standard Z-score pairs trading often fails during market crashes because correlation goes to 1 in a panic. This engine utilizes **Copulas (Clayton, Gumbel, Frank)** to model *tail dependence* the probability that Asset A dislocates given Asset B's movement ensuring the strategy remains robust during extreme market regime shifts.
 
 ## Core Features
 
